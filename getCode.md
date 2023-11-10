@@ -12,7 +12,6 @@
             flex-direction: column;
             align-items: center;
         }
-
         header img {
             max-width: 100%; /* Make sure the image doesn't exceed its container width */
         }
@@ -23,7 +22,7 @@
         <img src="./pokecard.jpeg" alt="My PokeCard">
     </header>
     <br>
-    <a href="markdown.md" target="_blank">
+    <a href="getCode.md" target="_blank">
         <button>Get Code</button>
 </body>
 </html>
