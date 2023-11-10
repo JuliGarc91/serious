@@ -22,7 +22,7 @@
         <img src="./pokecard.jpeg" alt="My PokeCard">
     </header>
     <br>
-    <a href="getCode.md" target="_blank">
+    <a href="markdown.md" target="_blank">
         <button>Get Code</button>
 </body>
 </html>
