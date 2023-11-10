@@ -29,10 +29,6 @@
         li {
             margin-bottom: 15px;
         }
-                /* Hide the text box by default */
-        #textbox {
-            display: none;
-        }
     </style>
 </head>
 <body>
