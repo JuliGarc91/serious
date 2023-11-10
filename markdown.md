@@ -16,19 +16,6 @@
         header img {
             max-width: 100%; /* Make sure the image doesn't exceed its container width */
         }
-
-        h2 {
-            color: #333;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        li {
-            margin-bottom: 15px;
-        }
     </style>
 </head>
 <body>
